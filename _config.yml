@@ -9,15 +9,15 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:            Codinfox
-tagline:          'Learning to be Giant.'
+title:            Bunda Irna
+tagline:          'Learning, Coding and Sharing.'
 description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+url:              http://irnawansuprapti.github.io
 
 author:
-  name:           'Your Name'
-  url:            http://codinfox.github.io
-  gravatar:       https://en.gravatar.com/yourname
+  name:           'Irnawan Suprapti'
+  url:            http://irnawansuprapti.github.io
+  gravatar:       https://en.gravatar.com/irnawansuprapti
   photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
 
