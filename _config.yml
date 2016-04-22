@@ -9,17 +9,17 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:            Bunda Irna
+title:            Agus
 tagline:          'Learning, Coding and Sharing.'
-description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
+description:      'Simple tools for.'
 url:              http://irnawansuprapti.github.io
 
 author:
-  name:           'Irnawan Suprapti'
-  url:            http://irnawansuprapti.github.io
-  gravatar:       https://en.gravatar.com/irnawansuprapti
-  photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
-  introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
+  name:           'Agus Suhartono'
+  url:            http://www.agus.pro
+  gravatar:       https://en.gravatar.com/agussuhartono
+  photo:          https://secure.gravatar.com/avatar/01eed2065469bcf386582acb1f0671c8
+  introduction:   'Professioan Software Developer. Mastering on PHP and other Web Technology. Contributor on Openbiz Framework since 2009. More abou me  <a href="/about">here</a>.'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
