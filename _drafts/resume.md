@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Resume
-resume_short: /public/resume.pdf
-resume_long: /public/resume_long.pdf
+resume_short: /assets/resume.pdf
+resume_long: /assets/resume_long.pdf
 ---
 
 <p class="message">
