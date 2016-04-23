@@ -1,7 +1,7 @@
 /*
 * Designed to complement lanyon.css and customize.
 *
-* agus
+* codinfox
 *
 */
 
@@ -33,7 +33,7 @@
         padding-top: 6rem;
     }
 
-    /*.agus-masthead-bg {
+    /*.codinfox-masthead-bg {
     background: #fff;
     width: 100%;
     height: 100%;
@@ -44,15 +44,15 @@
     z-index: -1;
     }*/
 }
-.agus-profile-photo {
+.codinfox-profile-photo {
     text-align: center;
 }
-a.agus-profile-photo>img {
+a.codinfox-profile-photo>img {
     width: 100%;
     height: auto;
 }
 
-.agus-logo {
+.codinfox-logo {
     height: 30px;
     width: auto;
     vertical-align: text-bottom;
@@ -61,29 +61,29 @@ a.agus-profile-photo>img {
     margin: 0;
 }
 
-.agus-index-bg {
+.codinfox-index-bg {
     text-align: center;
     font-size: 0.75rem;
 }
-div.agus-index-bg>img {
+div.codinfox-index-bg>img {
     height: 28rem;
     width: auto;
     display: inline;
     margin-top: -1rem;
 }
 
-.agus-sns-flaticon {
+.codinfox-sns-flaticon {
     text-decoration: none;
     /*font-size: 0.75rem;*/
 }
-.agus-sns-flaticon>a{
+.codinfox-sns-flaticon>a{
     text-decoration: none;
     margin-right: .5em;
 }
-.agus-sns-flaticon>a:hover{
+.codinfox-sns-flaticon>a:hover{
     color: #000;
 }
-.agus-sns-flaticon>div{
+.codinfox-sns-flaticon>div{
     opacity: 0.7;
     font-size: 0.65rem;
     text-align:right;
@@ -91,7 +91,7 @@ div.agus-index-bg>img {
     margin-top: -0.5rem;
 }
 
-.agus-about-img{
+.codinfox-about-img{
     margin:1rem auto;
     min-width: 30%;
     max-width: 40%;
@@ -104,27 +104,27 @@ padding-top: 2rem;
 padding-bottom: 2rem;
 border-top: 1px solid #eee;
 }*/
-.agus-category-list {
+.codinfox-category-list {
     padding-left: 1rem;
     list-style: none;
 }
-.agus-category-list h3 {
+.codinfox-category-list h3 {
     font-size: 1rem;
     margin-top: 0;
 }
-.agus-category-list li small {
+.codinfox-category-list li small {
     font-size: 75%;
     color: #999;
 }
-.agus-category-list li a:hover {
+.codinfox-category-list li a:hover {
     color: #6a9fb5;
     text-decoration: none;
 }
-.agus-category-list li a:hover small {
+.codinfox-category-list li a:hover small {
     color: inherit;
 }
 
-.agus-category-mark {
+.codinfox-category-mark {
     padding: 0 .5rem 0 .5rem;
     border-radius: 5px;
     background: #f0f0f0;
@@ -133,11 +133,11 @@ border-top: 1px solid #eee;
     margin-bottom: .75rem;
 }
 
-.agus-category-mark:hover {
+.codinfox-category-mark:hover {
     font-weight: bold;
 }
 
-.agus-tag-mark{
+.codinfox-tag-mark{
     font-size: 75%;
     padding: 0 .5rem 0 .5rem;
     border-radius: 5px;

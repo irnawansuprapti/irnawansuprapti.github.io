@@ -16,8 +16,8 @@ url:              http://irnawansuprapti.github.io
 
 author:
   name:           'Agus Suhartono'
-  url:            http://www.agus.pro
-  gravatar:       https://en.gravatar.com/agussuhartono
+  url:            http://www.codinfox.pro
+  gravatar:       https://en.gravatar.com/codinfoxsuhartono
   photo:          https://secure.gravatar.com/avatar/01eed2065469bcf386582acb1f0671c8
   introduction:   'Professioan Software Developer. CEO at <a href="http://www.binexa.com">Binexa Internet</a>. More about me <a href="/about">here</a>.'
 
@@ -28,4 +28,4 @@ paginate_path:    '/blog/page:num'
 version:          1.0.0
 
 github:
-  repo:           https://github.com/agussuhartono/agussuhartono.github.io
+  repo:           https://github.com/codinfoxsuhartono/codinfoxsuhartono.github.io
