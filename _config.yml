@@ -19,7 +19,7 @@ author:
   url:            http://www.agus.pro
   gravatar:       https://en.gravatar.com/agussuhartono
   photo:          https://secure.gravatar.com/avatar/01eed2065469bcf386582acb1f0671c8
-  introduction:   'Professioan Software Developer. Mastering PHP and other Web Technology. Contributor on Openbiz Framework since 2009  <a href="/about">here</a>.'
+  introduction:   'Professioan Software Developer. CEO at <a href="http://www.binexa.com">Binexa Internet</a>. More about me <a href="/about">here</a>.'
 
 paginate:         10
 paginate_path:    '/blog/page:num'
