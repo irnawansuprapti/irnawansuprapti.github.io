@@ -19,7 +19,7 @@ author:
   url:            http://www.codinfox.pro
   gravatar:       https://en.gravatar.com/codinfoxsuhartono
   photo:          https://secure.gravatar.com/avatar/01eed2065469bcf386582acb1f0671c8
-  introduction:   'Professioan Software Developer. CEO at <a href="http://www.binexa.com">Binexa Internet</a>. More about me <a href="/about">here</a>.'
+  introduction:   'Husband and father for four childs. <a href="/about">More about me here</a>.'
 
 paginate:         10
 paginate_path:    '/blog/page:num'
