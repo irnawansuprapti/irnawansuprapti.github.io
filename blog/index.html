@@ -25,14 +25,14 @@ title: Blog
             {% if post.tags != empty %}
             |
             {% for tag in post.tags %}
-            <a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+            <a class="tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
             {% endfor %}
             {% endif %}
         </span>
 
         {{ post.content | split:"<!-- more -->" | first % }}
 
-        <div class="codinfox-post-more">
+        <div class="post-more">
             <a href="{{ post.url }}#disqus_thread">Comment</a>&nbsp;
             <a href="{{ post.url }}">Read more</a>
         </div>
